@@ -1,7 +1,8 @@
 import streamlit as st
 
 st.title("Selamat datang di website Inforfun" )
-st.write("view/young.png", width=200)
-st.write("./python.jgp", width=200 python.jpg)
+st.image("NationalGeographic_1468962.jpg, width=200)
 st.write("\n")
-st.subheader("")
+st.subheader("Al-Ariffa Billah Khadijah)
+st.write(
+  mari belajar jenis-jenis kucing
